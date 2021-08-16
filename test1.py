@@ -11,3 +11,4 @@ d = 77
 #Die 2.
 
 #Und schon die dritte
+crazy = 782/8936
