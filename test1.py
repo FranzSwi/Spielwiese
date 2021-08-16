@@ -12,3 +12,5 @@ d = 77
 
 #Und schon die dritte
 crazy = 782/8936
+
+Crazy2 = "So ein Schmarrn"
