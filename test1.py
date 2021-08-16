@@ -14,3 +14,5 @@ d = 77
 crazy = 782/8936
 
 Crazy2 = "So ein Schmarrn"
+
+Crazy3 = "Und schon wieder ein Softwarefehler"
